@@ -1,3 +1,10 @@
+//Ryan Ferguson
+//3013 - MW 3 - 4:20
+// -----------------
+// This program creates a binary max heap that organises an object file based on a calculated priority
+// This file uses json for c++
+// This program is not finished and will not properly run, it reaches a read acess vilation when inserting an object.
+
 
 #include "json_helper.cpp"
 #include <fstream>
