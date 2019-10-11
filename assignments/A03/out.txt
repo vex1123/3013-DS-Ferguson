@@ -1,1 +1,24 @@
-Cannot get output, recieve read acess violation.
+Ryan Ferguson
+Heap # 0
+-------------
+Racer, blue 5.34741e+08
+White-winged black tern 4.36424e+08
+Rhesus monkey 1.50717e+08
+Red-headed woodpecker 1.21188e+08
+Cape wild cat 1.1593e+08
+
+Heap # 1
+-------------
+Pronghorn 4.21275e+08
+Spotted wood sandpiper 3.95899e+08
+Dingo 2.08208e+08
+Monitor, white-throated 1.71621e+08
+Badger, eurasian 1.46754e+08
+
+Heap # 2
+-------------
+Kangaroo, red 3.92734e+08
+Eleven-banded armadillo (unidentified) 1.93831e+08
+Cormorant, king 1.79257e+08
+African black crake 1.56873e+08
+Tree porcupine 1.56157e+08
